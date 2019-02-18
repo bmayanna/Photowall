@@ -1,0 +1,21 @@
+Created the Photowall app with the feature of "Deleting the post".
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Bharath Mayanna <bharath@bharaths-mbp.home>
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    src/App.css
+#	deleted:    src/App.js
+#	deleted:    src/App.test.js
+#	new file:   src/Components/Main.js
+#	new file:   src/Components/Photo.js
+#	new file:   src/Components/PhotoWall.js
+#	new file:   src/Components/Title.js
+#	deleted:    src/index.css
+#	modified:   src/index.js
+#	deleted:    src/logo.svg
+#	deleted:    src/serviceWorker.js
+#	new file:   src/styles/stylesheet.css
+#
